@@ -4,16 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "tttttttCharacter.generated.h"
+#include "tastastaC.generated.h"
 
 UCLASS()
-class TEST_API AtttttttCharacter : public ACharacter
+class TEST_API AtastastaC : public ACharacter
 {
 	GENERATED_BODY()
 
 public:
 	// Sets default values for this character's properties
-	AtttttttCharacter();
+	AtastastaC();
 
 protected:
 	// Called when the game starts or when spawned

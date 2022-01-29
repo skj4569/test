@@ -1,10 +1,10 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "tttttttCharacter.h"
+#include "tastastaC.h"
 
 // Sets default values
-AtttttttCharacter::AtttttttCharacter()
+AtastastaC::AtastastaC()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
@@ -12,21 +12,21 @@ AtttttttCharacter::AtttttttCharacter()
 }
 
 // Called when the game starts or when spawned
-void AtttttttCharacter::BeginPlay()
+void AtastastaC::BeginPlay()
 {
 	Super::BeginPlay();
 	
 }
 
 // Called every frame
-void AtttttttCharacter::Tick(float DeltaTime)
+void AtastastaC::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
 }
 
 // Called to bind functionality to input
-void AtttttttCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+void AtastastaC::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
